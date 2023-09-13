@@ -1,3 +1,3 @@
 # test-revert-revert
 
-This is not a good package
+This is now a good package
